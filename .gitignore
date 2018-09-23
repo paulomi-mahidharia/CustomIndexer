@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+out*/
+stemmed
+DOClen.txt
+expected.txt
+final.txt
+FinalCatalog.txt
+target
+.idea
